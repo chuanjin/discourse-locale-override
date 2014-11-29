@@ -1,0 +1,50 @@
+zh_CN:
+  js:
+    dates:
+      time: "HH:mm"
+      long_no_year: "MMMDoHH:mm"
+      long_no_year_no_time: "MMMDo"
+      long_with_year: "lll"
+      long_with_year_no_time: "ll"
+      long_date_with_year: "YY年MMMDoLT"
+      long_date_without_year: "MMMDoLT"
+      long_date_with_year_without_time: "YY年MMMDo"
+      long_date_without_year_with_linebreak: "MMMDo<br/>LT"
+      long_date_with_year_with_linebreak: "YY年MMMDo<br/>LT"
+      tiny:
+        half_a_minute: "< 1 分钟"
+        less_than_x_seconds:
+          other: "< %{count}秒钟"
+        x_seconds:
+          other: "%{count}秒钟前"
+        less_than_x_minutes:
+          other: "< %{count}分钟"
+        x_minutes:
+          other: "%{count}分钟前"
+        about_x_hours:
+          other: "%{count}小时前"
+        x_days:
+          other: "%{count}天前"
+        about_x_years:
+          other: "约%{count}年前"
+        over_x_years:
+          other: "> %{count}年"
+        almost_x_years:
+          other: "近%{count}年"
+        date_month: "MMMDo"
+        date_year: "YY-MM-D"
+      medium:
+        x_minutes:
+          other: "%{count}分钟"
+        x_hours:
+          other: "%{count}小时"
+        x_days:
+          other: "%{count}天"
+        date_year: "YY年MMMDo"
+      medium_with_ago:
+        x_minutes:
+          other: "%{count}分钟前"
+        x_hours:
+          other: "%{count}小时前"
+        x_days:
+          other: "%{count}天前"

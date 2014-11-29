@@ -1,0 +1,12 @@
+zh_CN:
+  trust_levels:
+    newuser:
+      title: "菜鸟"
+    basic:
+      title: "码农"
+    regular:
+      title: "程序猿"
+    leader:
+      title: "工程狮"
+    elder:
+      title: "极客"
