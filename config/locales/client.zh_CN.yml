@@ -48,3 +48,7 @@ zh_CN:
           other: "%{count}小时前"
         x_days:
           other: "%{count}天前"
+    share:
+      weibo: '分享这个链接到 微博'
+      renren: '分享这个链接到 人人'
+      wechat: '分享这个链接到 微信'
