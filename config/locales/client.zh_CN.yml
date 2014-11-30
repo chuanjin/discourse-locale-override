@@ -1,8 +1,8 @@
 zh_CN:
   js:
     dates:
-      time: "HH:mm"
-      long_no_year: "MMMDoHH:mm"
+      time: "ah:mm"
+      long_no_year: "MMMDoah:mm"
       long_no_year_no_time: "MMMDo"
       long_with_year: "lll"
       long_with_year_no_time: "ll"
