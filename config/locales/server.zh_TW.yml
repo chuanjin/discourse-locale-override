@@ -10,3 +10,12 @@ zh_CN:
       title: "攻城狮"
     elder:
       title: "极客"
+  admin:
+    users:
+      nav:
+        staff: "员工"
+        suspect: "嫌疑"
+      titles:
+        suspect: "可疑人员"
+    export_csv:
+      button_text: "导出"
