@@ -58,3 +58,22 @@ zh_CN:
         message: "使用 QQ 帐号验证注册（请确保没有禁止浏览器弹出对话框）"
     topic:
       read_more_MF: "还有 { UNREAD, plural, =0 {} one { <a href='/unread'>1 条未读</a> } other { <a href='/unread'># 条未读</a> } } { NEW, plural, =0 {} one { {BOTH, select, true{和 } false { } other{}} <a href='/new'>1 篇新的</a>话题} other { {BOTH, select, true{和 } false { } other{}} <a href='/new'># 篇新的</a>话题} }，或者{CATEGORY, select, true {浏览 {catLink} 中的话题} false {{latestLink}} other {}}。"
+    user:
+      name:
+        title: "昵称"
+        instructions: "您在网站中的昵称（可选）"
+        too_short: "您设置的昵称太短了"
+        ok: "您的昵称符合要求"
+      username:
+        title: "用户名"
+        instructions: "唯一，只能英文，没有空格，简短"
+        short_instructions: "其他人可以用 @{{username}} 来提及您"
+        available: "您的用户名可用"
+        global_match: "电子邮箱与注册用户名相匹配"
+        global_mismatch: "已被注册。试试 {{suggestion}} ？"
+        not_available: "不可用。试试 {{suggestion}} ？"
+        too_short: "您设置的用户名太短了"
+        too_long: "您设置的用户名太长了"
+        checking: "查看用户名是否可用..."
+        enter_email: '找到用户名；请输入对应电子邮箱'
+        prefilled: "电子邮箱与注册用户名匹配"
