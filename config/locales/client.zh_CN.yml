@@ -52,18 +52,14 @@ zh_CN:
       weibo: '分享这个链接到 微博'
       renren: '分享这个链接到 人人'
       wechat: '分享这个链接到 微信'
-    login:
-      qq_connect:
-        title: "使用 QQ 帐号注册"
-        message: "使用 QQ 帐号验证注册（请确保没有禁止浏览器弹出对话框）"
     topic:
       read_more_MF: "还有 { UNREAD, plural, =0 {} one { <a href='/unread'>1 条未读</a> } other { <a href='/unread'># 条未读</a> } } { NEW, plural, =0 {} one { {BOTH, select, true{和 } false { } other{}} <a href='/new'>1 篇新的</a>话题} other { {BOTH, select, true{和 } false { } other{}} <a href='/new'># 篇新的</a>话题} }，或者{CATEGORY, select, true {浏览 {catLink} 中的话题} false {{latestLink}} other {}}。"
     user:
       name:
-        title: "昵称"
-        instructions: "您在网站中的昵称（可选）"
-        too_short: "您设置的昵称太短了"
-        ok: "您的昵称符合要求"
+        title: "名字"
+        instructions: "您在网站中的称呼（可选）"
+        too_short: "您设置的名字太短了"
+        ok: "您的名字符合要求"
       username:
         title: "用户名"
         instructions: "唯一，只能英文，没有空格，简短"
@@ -77,3 +73,7 @@ zh_CN:
         checking: "查看用户名是否可用..."
         enter_email: '找到用户名；请输入对应电子邮箱'
         prefilled: "电子邮箱与注册用户名匹配"
+      login:
+        qq_connect:
+          title: "使用 QQ 帐号注册"
+          message: "使用 QQ 帐号验证注册（请确保没有禁止浏览器弹出对话框）"
