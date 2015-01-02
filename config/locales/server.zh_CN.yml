@@ -19,3 +19,5 @@ zh_CN:
         suspect: "可疑人员"
     export_csv:
       button_text: "导出"
+  user:
+    associated_accounts: "关联账号"
