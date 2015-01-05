@@ -85,7 +85,7 @@ zh_CN:
     keyboard_shortcuts_help:
       navigation:
         next_prev: '<b>shift j</b>/<b>shift k</b> 下一个/上一个选区'
-      action:
+      actions:
         pin_unpin_topic: '<b>shift p</b> 置顶/接触置顶主题'   
         share_topic: '<b>shift s</b> 分享主题'
         reply_topic: '<b>shift r</b> 回复主题'
