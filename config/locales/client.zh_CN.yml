@@ -49,7 +49,6 @@ zh_CN:
         x_days:
           other: "%{count}天前"
     share:
-      post: '分享 #%{postNumber} 帖的链接'
       weibo: '分享这个链接到 微博'
       renren: '分享这个链接到 人人'
       wechat: '分享这个链接到 微信'
@@ -78,15 +77,3 @@ zh_CN:
         qq_connect:
           title: "使用 QQ 帐号注册"
           message: "使用 QQ 帐号验证注册（请确保没有禁止浏览器弹出对话框）"
-      download_archive: "下载我的帖子的存档"
-    admin:
-      export_csv: 
-        success: "导出开始，你将马上看到进度提示。"
-    keyboard_shortcuts_help:
-      navigation:
-        open: '<b>o</b> 或 <b>Enter</b> 打开选中的主题'
-        next_prev: '<b>shift j</b>/<b>shift k</b> 下一个/上一个选区'
-      actions:
-        pin_unpin_topic: '<b>shift p</b> 置顶/接触置顶主题'   
-        share_topic: '<b>shift s</b> 分享主题'
-        reply_topic: '<b>shift r</b> 回复主题'
